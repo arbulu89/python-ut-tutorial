@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/arbulu89/python-ut-tutorial.svg?branch=master)](https://travis-ci.org/arbulu89/python-ut-tutorial)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ec92d2849689b3cf8954/maintainability)](https://codeclimate.com/github/arbulu89/python-ut-tutorial/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ec92d2849689b3cf8954/test_coverage)](https://codeclimate.com/github/arbulu89/python-ut-tutorial/test_coverage)
+
 # Python Unit Test tutorial
 
 This project shows some tips and good practices about how to create correct Unit Test in Python.
