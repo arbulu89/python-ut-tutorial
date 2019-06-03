@@ -34,7 +34,18 @@ This project will use the next tools:
 - **[pytest](https://docs.pytest.org/en/latest/)**: Really popular python test runner.
 - **[coverage.py](https://coverage.readthedocs.io/en/v4.5.x/)**: Tool for measuring code coverage in Python programs.
 - **[tox](https://tox.readthedocs.io/en/latest/)**: Tool to automate and standardize testing in Python.
+Besides, tox creates new virtual environments every execution, so the test are executed in clean environments.
 - **[travis](https://travis-ci.org/)**: Tool used to configure continuous integration of the tests.
+
+## How to run
+
+To run the tests basically run:
+
+```
+sudo pip install tox
+cd python-ut-tutorial
+sudo tox
+```
 
 ## Recommendations
 
